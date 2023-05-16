@@ -1,0 +1,13 @@
+
+.aboutme{ background-color:light salmon; border: 2pt solid black }
+.name{font-family: "Times New Roman"; text-align: 13pt left}
+.profilepicture{float: right ; width=172pt ; height=172pt}
+.discription{font-family= "sans-serif"; color: blue }
+
+.education{background-color: lightblue ; color:black}
+
+
+.the-first-course-at-iit-goa{background-color:green; color:black; border: 3pt;}
+
+.the-second-course-at-iit-goa{background-color:lightpink;color:black;border: 3pt}
+.hobbies-interests{background-color:lightyellow; color:black; }
